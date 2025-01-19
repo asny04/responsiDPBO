@@ -1,0 +1,3 @@
+0 Kucing Persia
+1 Kucing Ragdoll
+2 Kucing Garong
